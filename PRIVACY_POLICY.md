@@ -1,6 +1,6 @@
 # Privacy Policy for One Bullet One Room
 
-**Effective date:** [DATE YOU PUBLISH THIS]
+**Effective date:** 17-Aug-2026
 
 This privacy policy explains how "One Bullet One Room" ("the app", "we", "us") collects, uses, and shares information when you use the app.
 
@@ -53,5 +53,5 @@ We may update this policy as the app changes. The "Effective date" above will re
 ## Contact Us
 If you have questions about this privacy policy or your data, contact:
 
-**[YOUR NAME / DEVELOPER NAME]**
-Email: **[YOUR CONTACT EMAIL]**
+**Twisted Game(Pavan vadlamudi)**
+Email: **pavanvadlamudi37@gmail.com**
