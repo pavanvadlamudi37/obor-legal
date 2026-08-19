@@ -55,3 +55,7 @@ If you have questions about this privacy policy or your data, contact:
 
 **Twisted Game(Pavan vadlamudi)**
 Email: **pavanvadlamudi37@gmail.com**
+
+<div align="center">
+© 2026 Twisted Game. All Rights Reserved. </div>
+
